@@ -69,7 +69,7 @@ All we have to do is, use these values in our application(s) and you will get th
 <div align="center">
   App Icon
 </div>
- <font size="5"> This is my text number 5</font>
+ <font size="1"> This is my text number 5</font>
 <p align="left" width="100%">
     <img src="https://github.com/ihkcreations/Moment-of-Inertia-of-A-Fly-Wheel-Calculator/blob/main/image-assets/app_snap_one.png">
 </p>
