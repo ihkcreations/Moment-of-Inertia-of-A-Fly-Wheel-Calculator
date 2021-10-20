@@ -69,6 +69,9 @@ All we have to do is, use these values in our application(s) and you will get th
 <div align="center">
   ## App Icon
 </div>
+
+<p style="color:blue;font-size:18px;">This is demo text</p>
+
 <p align="left" width="100%">
     <img src="https://github.com/ihkcreations/Moment-of-Inertia-of-A-Fly-Wheel-Calculator/blob/main/image-assets/app_snap_one.png">
 </p>
