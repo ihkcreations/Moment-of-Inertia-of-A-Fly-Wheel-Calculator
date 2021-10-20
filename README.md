@@ -67,7 +67,7 @@ All we have to do is, use these values in our application(s) and you will get th
 ## Screenshots of Android Application
 
 
-  - App Icon
+- ### App Icon
 <p align="left" width="100%">
     <img src="https://github.com/ihkcreations/Moment-of-Inertia-of-A-Fly-Wheel-Calculator/blob/main/image-assets/app_snap_one.png">
 </p>
