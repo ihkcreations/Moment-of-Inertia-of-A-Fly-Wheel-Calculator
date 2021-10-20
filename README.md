@@ -46,9 +46,12 @@ After running the lab simulation of the above link, you will get these values wh
     
     This calculation was done using the PC application. All the values except the Angular Velocity and Moment of Inertia was acquired from the simulation.
 
-
 <br>
 
 <p align="left" width="100%">
     <img src="https://github.com/ihkcreations/Moment-of-Inertia-of-A-Fly-Wheel-Calculator/blob/main/image-assets/image_three.png">
 </p>
+
+    This calculation was done using the PC application. All the values except the Angular Velocity and Moment of Inertia was acquired from the simulation.
+    
+<br>
