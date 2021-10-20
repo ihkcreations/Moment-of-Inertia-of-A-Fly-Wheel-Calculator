@@ -25,4 +25,12 @@ This is both JavaFX and Android Application. This application may come in handy 
 > Download the .apk file from [here](#)
 <br>
 
-## Screenshots of the PC Application
+## How and when to use this application ?
+After running the lab simulation of the above link, you will get these values
+  
+  - Mass of load, **M** in kg
+  - Height of load, **h** in meter
+  - Radius of axle, **r** in meter
+  - Number of rotations of **n1**
+  - Number of rotations of **n2**
+  - Time duration of n2 rotations, **t** in seconds
