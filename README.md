@@ -19,7 +19,8 @@ This is both JavaFX and Android Application. This application may come in handy 
 <br>
 
 ## Requirements to run in Android Phone 📱
-- Just download the app 😊
+- Just download and install the app 😊
+- As the app isn't published in the play store yet, Google Play Protect may ask you to block it, just avoid and continue running the app.
 <br>
 
 > Download the .apk file from [here](#)
