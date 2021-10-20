@@ -26,7 +26,7 @@ This is both JavaFX and Android Application. This application may come in handy 
 <br>
 
 ## How and when to use this application ?
-After running the lab simulation of the above link, you will get these values
+After running the lab simulation of the above link, you will get these values when determining the n1, n2 and t values
   
   - Mass of load, **M** in kg
   - Height of load, **h** in meter
