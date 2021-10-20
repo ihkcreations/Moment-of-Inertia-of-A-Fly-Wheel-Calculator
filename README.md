@@ -39,9 +39,9 @@ After running the lab simulation of the above link, you will get these values wh
 <p align="center" width="100%">
     <img src="https://github.com/ihkcreations/Moment-of-Inertia-of-A-Fly-Wheel-Calculator/blob/main/image-assets/image_one.png">
 </p>
-<p align="center" width="100%">
+<p align="left" width="100%">
     <img src="https://github.com/ihkcreations/Moment-of-Inertia-of-A-Fly-Wheel-Calculator/blob/main/image-assets/image_two.png">
 </p>
-<p align="center" width="100%">
+<p align="left" width="100%">
     <img src="https://github.com/ihkcreations/Moment-of-Inertia-of-A-Fly-Wheel-Calculator/blob/main/image-assets/image_three.png">
 </p>
