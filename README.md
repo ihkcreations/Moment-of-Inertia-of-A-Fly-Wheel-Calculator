@@ -73,19 +73,19 @@ All we have to do is, use these values in our application(s) and you will get th
 </p>
 <br>
 
-**Splash Screen**
+- ### Splash Screen
 <p align="left" width="100%">
     <img src="https://github.com/ihkcreations/Moment-of-Inertia-of-A-Fly-Wheel-Calculator/blob/main/image-assets/app_snap_two.png">
 </p>
 <br>
 
-**Main Screen**
+- ### Main Screen
 <p align="left" width="100%">
     <img src="https://github.com/ihkcreations/Moment-of-Inertia-of-A-Fly-Wheel-Calculator/blob/main/image-assets/app_snap_three.png">
 </p>
 <br>
 
-**Calculation**
+- ### Calculation
 <p align="left" width="100%">
     <img src="https://github.com/ihkcreations/Moment-of-Inertia-of-A-Fly-Wheel-Calculator/blob/main/image-assets/app_snap_four.png">
 </p>
