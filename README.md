@@ -34,3 +34,8 @@ After running the lab simulation of the above link, you will get these values wh
   - Number of rotations of **n1**
   - Number of rotations of **n2**
   - Time duration of n2 rotations, **t** in seconds
+
+## Example given below:
+<p align="center" width="100%">
+    <img src="https://github.com/ihkcreations/Moment-of-Inertia-of-A-Fly-Wheel-Calculator/blob/main/image-assets/image_one.png">
+</p>
