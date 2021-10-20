@@ -54,11 +54,34 @@ All we have to do is, use these values in our application(s) and you will get th
     <img src="https://github.com/ihkcreations/Moment-of-Inertia-of-A-Fly-Wheel-Calculator/blob/main/image-assets/image_three.png">
 </p>
 
-    This calculation was done using the PC application. All the values were acquired from the simulation except the Angular Velocity and Moment of Inertia.
+    This calculation was done using the Android application. All the values were acquired from the simulation except the Angular Velocity and Moment of Inertia.
     
 <br>
 
 ## Screenshots of PC Application
 <p align="center" width="100%">
     <img src="https://github.com/ihkcreations/Moment-of-Inertia-of-A-Fly-Wheel-Calculator/blob/main/image-assets/pc_snap.png">
+</p>
+<br>
+
+## Screenshots of Android Application
+
+**App Icon**
+<p align="center" width="100%">
+    <img src="https://github.com/ihkcreations/Moment-of-Inertia-of-A-Fly-Wheel-Calculator/blob/main/image-assets/app_snap_one.png">
+</p>
+
+**Splash Screen**
+<p align="center" width="100%">
+    <img src="https://github.com/ihkcreations/Moment-of-Inertia-of-A-Fly-Wheel-Calculator/blob/main/image-assets/app_snap_one.png">
+</p>
+
+**Main Screen**
+<p align="center" width="100%">
+    <img src="https://github.com/ihkcreations/Moment-of-Inertia-of-A-Fly-Wheel-Calculator/blob/main/image-assets/app_snap_one.png">
+</p>
+
+**Calculation**
+<p align="center" width="100%">
+    <img src="https://github.com/ihkcreations/Moment-of-Inertia-of-A-Fly-Wheel-Calculator/blob/main/image-assets/app_snap_one.png">
 </p>
