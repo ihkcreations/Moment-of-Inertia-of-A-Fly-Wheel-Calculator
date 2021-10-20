@@ -35,6 +35,8 @@ After running the lab simulation of the above link, you will get these values wh
   - Number of rotations of **n2**
   - Time duration of n2 rotations, **t** in seconds
 
+All we have to do is, use these values in our application(s) and you will get the results.
+
 **Example given below:**
 <p align="center" width="100%">
     <img src="https://github.com/ihkcreations/Moment-of-Inertia-of-A-Fly-Wheel-Calculator/blob/main/image-assets/image_one.png">
@@ -55,3 +57,8 @@ After running the lab simulation of the above link, you will get these values wh
     This calculation was done using the PC application. All the values were acquired from the simulation except the Angular Velocity and Moment of Inertia.
     
 <br>
+
+## Screenshots of PC Application
+<p align="center" width="100%">
+    <img src="https://github.com/ihkcreations/Moment-of-Inertia-of-A-Fly-Wheel-Calculator/blob/main/image-assets/pc_snap.png">
+</p>
