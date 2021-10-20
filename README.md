@@ -11,10 +11,18 @@ This is both JavaFX and Android Application. This application may come in handy 
 
 <br>
 
-## Softwares required to run in PC
+## Requirements to run in PC 🖥️
 - Java ([JDK Latest](https://www.oracle.com/java/technologies/downloads/))
 <br>
 
 > Download the .jar file from [here](#) and you are good to go! (Make sure to install java in your pc first)
 <br>
 
+## Requirements to run in Android Phone 📱
+- Just download the app 😊
+<br>
+
+> Download the .apk file from [here](#)
+<br>
+
+## Screenshots of the PC Application
