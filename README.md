@@ -15,6 +15,7 @@ This is both JavaFX and Android Application. This application may come in handy 
 - Java [JDK Latest](https://www.oracle.com/java/technologies/downloads/)
 <br>
 
-> Download the .jar file from [here](#) and you are good to go!(Make sure to install java in your pc first)
+> Download the .jar file from [here](#) and you are good to go!
+> (Make sure to install java in your pc first)
 <br>
 
