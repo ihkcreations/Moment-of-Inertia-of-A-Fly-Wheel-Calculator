@@ -24,7 +24,7 @@ This is both JavaFX and Android Application. This application may come in handy 
 - Not suitable for tablet version
 <br>
 
-> Download the .apk file from [here](#)
+> Download the .apk file from [here](https://github.com/ihkcreations/Moment-of-Inertia-of-A-Fly-Wheel-Calculator/releases/tag/v1.1)
 <br>
 
 ## How and when to use this application ?
